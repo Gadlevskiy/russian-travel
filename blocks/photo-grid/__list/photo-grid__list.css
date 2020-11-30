@@ -21,6 +21,6 @@
 
 @media screen and (min-width: 1280px) {
   .photo-grid__list {
-    gap: 16px;
+    gap: 13px 16px;
   }
 }

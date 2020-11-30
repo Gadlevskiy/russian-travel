@@ -5,6 +5,6 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(max-content, 1fr));
   justify-items: end;
-  align-items: center;
+  align-items: end;
   column-gap: 18px;
 }
