@@ -13,7 +13,7 @@
   .place {
     grid-template-columns: repeat(2, minmax(340px, 1fr));
     gap: 45px 17px;
-    margin-bottom: 62px;
+    margin-bottom: 72px;
   }
 
   .place:last-of-type {
